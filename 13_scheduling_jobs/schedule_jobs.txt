@@ -1,0 +1,13 @@
+jobs are scheduled by 2 commands
+
+1. at
+		at 12:30 -f ~/clean.sh
+
+2. crontab -e
+	
+	
+	minute hour day month week command
+
+	10 2 * * 1 ~/clean
+
+	every monday 2:10 the clean.sh file will execute

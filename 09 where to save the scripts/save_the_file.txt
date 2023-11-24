@@ -1,0 +1,27 @@
+save the script in the /usr/local/bin
+
+the terminal commands like the ls, cat, man are saved in the location of /usr/bin/
+to check use "which" command
+
+eg.
+	which ls
+	/usr/bin/ls
+		
+
+	which cat
+	/usr/bin/cat
+
+to create our own location, /usr/local/bin
+
+type, 'env' in terminal to check the environment variables, 
+
+type, echo $PATH in terminal, the enviroment path will be chown,
+
+echo $PATH
+/home/arulkumaran/anaconda3/bin:/home/arulkumaran/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+
+to add the new environment variable, use 'export' command
+
+	export PATH=/../../..:$PATH
+
+

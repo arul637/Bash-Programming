@@ -1,0 +1,19 @@
+There are 3 types of data streams,
+	
+	1. standard input  (stdin)
+	2. standard error  (stderr)
+	3. standard output (stdout)
+
+1. standard input
+	
+	the standard input means taking inpur form the user,
+
+2. standard output (1)
+	
+	the standard output is display the message to console, which means each and every command is 
+	displayign the message to the console
+
+3. standard error (2)
+	
+	the error message often occur when there is an denial or exit code is greater than 0, to 
+	handle the error you can use the standard error 

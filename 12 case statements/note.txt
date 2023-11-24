@@ -1,0 +1,7 @@
+
+each and every case statement end's with ;;
+
+1) ;;  - similar to break case not execute the next command
+2) ;&  - case execute the current and next command
+3) ;;& - case execute the current and default command
+
