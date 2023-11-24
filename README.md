@@ -27,6 +27,8 @@
   <img src='bash_program.png' width=800>
 </div>
 
+<p>simple, bash script to update the local repositories in linux distribution</p>
+
 <h4 align='center'>output</h4>
 <div align='center'>
   <img src='output.png' width=800>
