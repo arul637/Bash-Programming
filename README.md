@@ -19,3 +19,16 @@
 <p>The shebang line in a Bash script specifies the path to the Bash interpreter.</p>
 <p>The shebang <b>(#! /bin/bash)</b> at the beginning tells the system to interpret the script using the Bash shell. The second line is a comment, and it's optional but good practice for clarity.</p>
 
+<h3>Bash Script</h3>
+<p>Utilize the default script editor (nano) in your Linux distribution, as per my suggestion. </p>
+
+<h4 align='center'>Bash Program to Update the Local Repositories</h4>
+<div align='center'>
+  <img src='bash_program.png' width=800>
+</div>
+
+<h4 align='center'>output</h4>
+<div align='center'>
+  <img src='output.png' width=800>
+</div>
+
